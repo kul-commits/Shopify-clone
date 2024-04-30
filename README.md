@@ -59,7 +59,7 @@ This project was created using the following technologies.
 ![img-6](https://user-images.githubusercontent.com/111676859/235677713-d2ee180f-5915-4d94-b562-aafcf917af8d.png)
 
 
-- Github: [berthutapea](https://github.com/berthutapea)
+- Github:(https://github.com/kul-commits)
 
-- Linkedin: [gilberthutapea](https://www.linkedin.com/in/gilberthutapea/)
+- Linkedin:(https://www.linkedin.com/in/gilberthutapea/](https://www.linkedin.com/in/kuldeep-yadav-304432272?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ")
 
