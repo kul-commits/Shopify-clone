@@ -3,13 +3,6 @@
 Open source landing page shopify application </h5>
 <br/>
 
-  * [Configuration and Setup](#configuration-and-setup)
-  * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-  * [📸 Screenshots](#screenshots)
-  * [Author](#author)
-  * [License](#license)
-
 
 
 ## Configuration and Setup
